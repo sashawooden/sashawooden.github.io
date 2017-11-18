@@ -28,9 +28,11 @@ So once you make any number of edits you can then ```commit``` your change and p
 You can think of branches as independent copies of your webpage. So the ```master branch``` is what ```Github``` reads from. So only updates to this branch will be updated live. What are the purposes of branches? Branches streamline workflow between multiple people working on the same project. Someone can create a new branch to independetly develop, fix, or add new content on their own version of the website so they can see how it looks (This really only meant for bigger projects for for your purposes you can edit straight to the ```master``` branch.
 
 ### Commits
-So commits are a bundle of changes you make to a document that you want to make permenant in your current code. (Because git is version control, this can obviously be reversed if needed). So when you are commiting you are adding the memory or instructions of your current changes to a ```stache  memory``` that is stored locally on your computer. Now to make this update live on the websiting you have to ```push to origin aka push```. What is pushing?
+So commits are a bundle of changes you make to a document that you want to make permenant in your current code. (Because git is version control, this can obviously be reversed if needed). So when you are commiting you are adding the memory or instructions of your current changes to a ```stache  memory``` that is stored locally on your computer. Now to make this update live on the websiting you have to ```push to origin``` aka ```push```. What is pushing?
 
 ### Pushing
-Allows you take a bundle of commits and make it permenant in the current branch.
+Allows you take a bundle of commits and make it permenant in the current/master branch.
 
-If you have questions, hmu. 
+
+
+I tried to make this in the simplist terms possible. If you have questions, hmu. You know how to reach me :)
